@@ -20,3 +20,4 @@ How to Use
 1. Clone or download this repository.
 2. Run the simple interest calculator script.
 3. Enter the principal amount, annual interest rate, and time in years when prompted to view the calculated simple interest.
+© 2023 XYZ, Inc.
